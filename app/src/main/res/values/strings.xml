@@ -1,0 +1,348 @@
+<resources>
+
+    <!--Register -->
+    <string name="username">Nombre del Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Email</string>
+    <string name="btm_login">Ingresar</string>
+    <string name="title_activity_login">Login</string>
+    <string name="registration_instruction">Si no tiene un nombre y contraseña. Haga clic en el botón de abajo para registrarse</string>
+    <string name="register_button">Registrate Hora</string>
+    <string name="title_activity_register">Registrate Ahora</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="is_login">Usted a iniciado session con extito</string>
+    <string name="sign_up">Registrate Ahora</string>
+    <!--LOgin -->
+
+    <string name="app_name">"JSF"</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="titulo_otros_cursos">Asociados con JSF</string>
+    <string name="texto_no_tarjetas">No tienes ninguna tarjeta asociada</string>
+    <string name="etiqueta_universidad">UTNG</string>
+    <string name="texto_cambiar_contrasena">Cambia tu contraseña</string>
+    <string name="etiqueta_comunicate">Enviame Un Correo</string>
+
+    <!--ITEMS -->
+    <string name="item_desarrollador">Desarrollador</string>
+    <string name="item_acerca">Acerca</string>
+    <string name="item_login">Login</string>
+    <string name="item_inicio">Inicio</string>
+    <string name="item_cuenta">Mi Cuenta</string>
+    <string name="item_categorias">Categorías</string>
+    <string name="item_configuracion">Configuración</string>
+    <string name="item_juego">Ahorcado JSF</string>
+    <string name="item_videos">Videos</string>
+    <string name="item_enciar_correo">Enviar Correo</string>
+    <string name="item_enciar_audios">Audios Tematicos</string>
+    <!--ITEMS -->
+
+    <!--TABS -->
+    <string name="tab_foro">Video Ayuda</string>
+    <string name="pestaña_pulsada">"Pestaña Pulsada: "</string>
+    <string name="titulo_tab_capitulos">CAPITULOS</string>
+    <string name="titulo_tab_Videos">VIDEOS</string>
+    <string name="titulo_tab_Material">MATERIAL</string>
+    <string name="titulo_tab_perfil">PERFIL</string>
+    <string name="titulo_tab_direcciones">DIRECCIONES</string>
+    <string name="titulo_tab_desarrollador">DESARROLLADOR</string>
+    <string name="titulo_tab_tarjetas">TARJETAS</string>
+    <!--TABS -->
+
+    <!-- ETIQUETAS -->
+    <string name="texto_envia_correo">Enviar</string>
+    <string name="etiqueta_info_usuario">usuario</string>
+    <string name="etiqueta_contrasena">contraseña</string>
+    <string name="etiqueta_info_desarrollador">Desarrollador</string>
+    <!-- ETIQUETAS -->
+
+    <!-- FOTOS -->
+    <string name="titulo_tab_foto">FOTO</string>
+    <string name="etiqueta_info_foto">Foto</string>
+    <!-- FOTOS -->
+
+    <!-- LOGIN -->
+    <string name="hello_blank_fragment">Fragmento vacio</string>
+    <string name="nombre">Ingrese el nombre de usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="correo">Correo</string>
+    <string name="agregar">Agregar Usuario</string>
+    <string name="nombre_info">Nombre</string>
+    <string name="contraseña_info">Ingrese una contraseña</string>
+    <string name="correo_info">Ingrese su correo electronico</string>
+    <string name="nuevo_usuario">Nuevo Usuario</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="emptyString" />
+    <!-- LOGIN -->
+
+    <!-- Ayuda -->
+    <string name="Ayuda">En esta pestana te brindamos ayuda Si tienes alguna duda envia un correo
+        al desarrollador.\n Su correo esta  en el tab de acerca de. Tambien puedes modificar las
+        preferencias en la ventana de configuracion que esta dentro  del slide o si prefieres enviar
+        un correo electronicopresiendo el boton de abajo.
+       </string>
+    <!-- Ayuda -->
+
+    <!-- TEXTOS GRANDES -->
+    <string name="list_descripcion_videos">Hola en esta seccion podras reproducir cada uno de los
+        videos que te ayudaran a comprender aun mas las tecnicas y la logica de Java Server Faces, te invitamos a
+        que veas los videos, Aprende y Diviertete al mismo tiempo!!</string>
+    <string name="list_descripcion_audios">Hola en esta seccion podras reprodcir los audios de los temas
+        que te ayudaran a comprender mejor el tema de Java Server Faces, te invitamos a que los escuches!!!</string>
+    <string name="list_descripcion_material">Hola en esta seccion podras buscar aun mas informacion
+        asi como encontrar foros, ejemplos y documentos que te ayuden a aprender aun mas sobre ajax
+        te dejamos los siguientes links, DIVIERTETE!!</string>
+    <!-- TEXTOS GRANDES -->
+
+
+    <string name="position">posicion</string>
+    <string name="itm_quiz">Quiz</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="menu_settings">Menu</string>
+    <string name="capitulos">Capitulos</string>
+
+    <string name="abrir">Abrir</string>
+    <string name="omitir">omitir</string>
+    <string name="Bienvenida">Felicidades, acabas de registrarte, presiona el boton de inicio para ingresar al curso.</string>
+    <string name="privilegios">Si quieres tener acceso total a la aplicacion
+        registrate precionando el boton que esta en la parte inferior.</string>
+    <string name="Privilegios_introduccion">RichFaces es una biblioteca de componentes para JSF y un avanzado framework para la integración de AJAX continuará ... </string>
+    <string name="enviar_correo">Envia un correo al programador, puedes hacerlo desplegando la barra
+        lateral de la aplicacion, selecciona la opcion enviar un correo, escribe el correo y listo.</string>
+        <!-- TEXTOS GRANDES -->
+
+    <!-- ARREGLOS -->
+
+
+    <string-array name="audios">
+        <item>Introducción a JSF</item>
+        <item>Qué es JSF</item>
+        <item>Aplicaciones JSF</item>
+        <item>Ciclo de vida de una página Java Server Faces</item>
+        <item>Etiquetas JSF</item>
+    </string-array>
+
+    <string-array name="material">
+        <item>Descargar PDF Introduccion a Ajax Javier Eguíluz Pérez</item>
+        <item>Blog más popular dedicado al mundo AJAX.</item>
+        <item>Librerías y frameworks</item>
+        <item>Decenas de ejemplos reales de aplicaciones AJAX listas para descargar
+            (galerías de imágenes, reflejos para imágenes, formularios, tablasreordenables, etc.)
+        </item>
+    </string-array>
+
+   //Capitulos
+    <string name="introduccion_jsf">
+        Java Server Faces (JSF) es el framework para aplicaciones Web en Java de Sun MicroSystems,
+            liberado apenas en Marzo de 2004, que busca como tomar su lugar como estándar entre los
+            muchos de su clase.\n
+
+            \n
+            JSF incluye:\n
+            • Un conjunto de APIs para representar componentes de una interfaz de usuario y administrar su
+            estado, manejar eventos, validar entrada, definir un esquema de navegación de las páginas y dar
+            soporte para internacionalización y accesibilidad.\n
+            • Un conjunto por defecto de componentes para la interfaz de usuario.\n
+            • Dos bibliotecas de etiquetas personalizadas para JavaServer Pages que permiten expresar una
+            interfaz JavaServer Faces dentro de una página JSP.\n
+            • Un modelo de eventos en el lado del servidor.\n
+            • Administración de estados.\n
+            • Beans administrados.\n
+
+            \n
+            Java Server Faces 2.0 es una tecnología nueva, y necesita las últimas versiones de las herramientas de
+            desarrollo y servidores web para poder usarla.\n
+            \n A nivel de herramientas, las más utilizadas son Eclipse y NetBeans.\n
+            \n A nivel de servidores web, servidores como Apache Tomcat 6+, Jboss 5+, o GlassFish 3 soportan JSF 2.0.\n 
+
+    </string>
+
+    <string name="componentes_jsf">
+        Las clases de componentes son totalmente extensible, permitiendo a los escritores de componentes para
+              crear sus propios componentes personalizados. Creación de componentes personalizados es un tema
+              avanzado que veremos más tarde./n
+              \n La clase base abstracta para todos los componentes de interfaz de usuario es javax.faces.component.UIComponent.\n 
+              \n Las clases de componentes de interfaz de usuario amplian la clase UIComponentBase, (una subclase de
+              la clase UIComponent), que define el estado por defecto y el comportamiento de un componente de
+              interfaz de usuario.\n 
+
+              \n
+               Eriquetas UI Component:\n
+               • column: Representa una columna de datos en un componente UIData\n
+               • commandButton: Envía un formulario para la solicitud \n
+               • commandLink: Enlaces a otra página o ubicación en una página \n
+               • dataTable: Representa un contenedor de datos\n
+               • form: Representa una forma de entrada (etiquetas internas de la forma
+                 recibir los datos que se presentará con el formulario)\n
+               • graphicImage Muestra una imagen\n
+               • inputHidden Permite a un autor de la página incluir una variable oculta en una página\n
+               • inputSecret Permite al usuario introducir una cadena sin la cadena aparece en claro en
+                 el campo\n
+               • inputText Permite al usuario introducir una cadena \n
+               • inputTextarea Permite a un usuario introducir una cadena de varias líneas \n
+               • message Muestra un mensaje localizado\n
+               • messages Muestra los mensajes localizados\n
+               • outputFormat Muestra un mensaje localizado\n
+               • outputLabel Muestra un componente anidado como una etiqueta para un campo de entrada especificado\n
+               • outputLink Enlaces a otra página o ubicación en una página sin que se genere un evento de acción \n
+               • outputText Muestra una línea de texto \n
+               • panelGrid Muestra una tabla \n
+               • panelGroup Grupos de un conjunto de componentes en uno de los padres\n
+               • selectBooleanCheckbox Permite a un usuario cambiar el valor de una opción boleana\n
+               • selectItem Representa un elemento en una lista de elementos en un componente UISelectOne \n
+               • selectItems Representa una lista de elementos en un componente UISelectOne\n
+               • selectManyCheckbox Muestra un conjunto de casillas de verificación de que el usuario puede seleccionar
+                 varios valores\n
+               • selectManyListbox Permite al usuario seleccionar varios elementos de un conjunto de elementos, todos
+                 muestran a la vez\n
+               • selectManyMenu Permite al usuario seleccionar varios elementos de un conjunto de elementos\n
+               • selectOneListbox Permite a un usuario para seleccionar un elemento de un conjunto de elementos,
+                 todos muestran a la vez\n
+               • selectOneMenu Permite a un usuario para seleccionar un elemento de un conjunto de elementos\n
+               • selectOneRadio Permite a un usuario para seleccionar un elemento de un conjunto de elementos\n
+
+
+    </string>
+
+
+    <string name="formulario_jsf">
+    Para poner en practica lo anterior visto, vamos a usar un formulario de entrada al sitio.\n
+               Lo vamos a construir poco a poco para llegar al código siguiente:\n
+
+            \n
+            login.xhtml:\n
+             head>\n
+                Entrada al sitio title>\n
+                rel="stylesheet" href="curso.css" />\n
+                :include src="WEB-INF/include/head.xhtml"/>\n
+                h:head>\n
+                h:body>\n
+                ui:include src="WEB-INF/include/menu.xhtml"/>\n
+                h:outputText value="Hello World!"/>h1>\n
+                h:graphicImage alt="GIF" url="/images/Duke_Blocks.gif" width="100px" />\n
+                h:form>\n
+                h:panelGrid columns="3">\n
+                h:outputText value="Usuario" />\n
+                h:inputText id="username" value="#{Login.username}" required="true"validatorMessage="Minimo 2 caracteres!"requiredMessage="Value is required!" >\n
+                f:validateLength minimum="2" />\n
+                /h:inputText>\n
+                h:message for="username" styleClass="error"/>\n
+                h:outputText value="Clave" />\n
+                h:inputText value="#{Login.password}" />\n
+                h:commandButton value="Entrar" action="#{Login.submit}"actionListener="#{Login.onLogin}" />\n
+                /h:panelGrid\n
+                /h:form\n
+                /h:body
+            \n
+    </string>
+
+    <string name="validaciones_jsf">
+     JSF cuenta con tres tipos de mecanismos de validación:\n
+                • Integrada en los componentes\n
+                • Validación a nivel de aplicación\n
+                • Validación por métodos de Backed Beans\n
+
+            Validadores incluidos:\n
+            • f: validateDoubleRange: Se valida que una entrada numérica está dentro de un rango determinado. Es
+            aplicables a los valores que se pueden convertir a un doble.\n
+            • f: validateLength: Se valida que la longitud de la cadena de entrada está dentro de un rango
+            determinado.\n
+            • f: validateLongRange: Se valida que una entrada numérica está dentro de un rango determinado. Es
+            aplicables a los valores que se pueden convertir a un long.\n
+
+            Validador a nivel aplicacion:\n
+            La validación a nivel de aplicación tiene sentido si es necesario para validar la lógica de aplicación, a
+            diferencia de la validación de la corrección formal de los campos individuales. Por ejemplo, antes de
+            aceptar un pedido, le gustaría comprobar que su banco no tiene en la lista negra el número de tarjeta de
+            crédito.\n
+
+            \n
+            FacesContext ctxt = FacesContext.getCurrentInstance();
+            FacesMessage mess = new FacesMessage();
+            mess.setSeverity(FacesMessage.SEVERITY_ERROR);
+            mess.setSummary("Este es el mensaje de error principal");
+            mess.setDetail("Este es el detalle");
+            ctxt.addMessage(null, mess);\n
+
+            Validador Backed Bean:\n
+            En este caso, puedes hacer lo siguiente:\n
+                • Copiar el método de validación dentro de la clase\n
+                • Copia de las importaciones\n 
+                • Sustituya la línea que lanza la ValidatorException con :\n
+                    if (messS != null) {\n
+                    FacesMessage mess = new FacesMessage(messS);\n
+                    cntx.addMessage(cmp.getClientId(cntx), mess);\n
+                    }\n
+
+ 
+
+    </string>
+
+    <string name="hibernate">
+            \n
+            Hibernate es un marco de trabajo para persistencia de datos (en Java).\n
+            Hibernate permite manejar la persistencia de los datos en Java, haciendo abstracción de la base de
+            datos. Hibernate se encargará de dar los datos al código Java, y se encargará de mantener la base de
+            datos al día, si se utiliza una base de datos. Es una implementación de JPA.
+            \n
+
+            \n
+            Hibernate viene preinstalado en los servidores Jboss y Glassfish.
+            \n
+
+            \n
+            Hibernate utiliza un lenguaje de consulta potente (HQL) que se parece a SQL. Sin embargo, comparado
+            con SQL, HQL es completamente orientado a objetos y comprende nociones como herencia, polimorfismo
+            y asociación.
+            \n 
+
+    </string>
+
+
+    <string name="btn_jugar">Jugar</string>
+    <string name="btn_acerca">Acerca De</string>
+    <string name="graphic">Grafica de Avances</string>
+    <string name="certificate">Mandar Certificado</string>
+    <string name="mensaje">Large Text</string>
+    <string name="letter">Letra</string>
+    <string name="intro">Intro</string>
+    <string name="next_quiz">Siguiente Quiz</string>
+    <string name="mensaje_result">Large Text</string>
+    <string name="title_game">Ahorcado JSF</string>
+    <string name="begin">Empezar</string>
+    <string name="points">Puntuaciones</string>
+    <string name="out">Salir</string>
+    <string name="help">Ayuda</string>
+    <string name="subtitle">Diviertete y Aprende</string>
+    <string name="email_to">De :</string>
+    <string name="email_subjetc">Tema :</string>
+    <string name="email_message">Mensaje :</string>
+    <string name="email_send">Enviar</string>
+    <string name="back_home">Regresar a inicio</string>
+    <string name="title_developer">Desarrollador Android</string>
+    <string name="name_developer">Mauricio Bautista</string>
+    <string name="email_developer">maubau0810@gmail.com</string>
+    <string name="name_university">Casa de Estudios</string>
+    <string name="utng_name">Universidad Tecnologica del Norte de Guanajuato</string>
+    <string name="title_topic">Asignatura</string>
+    <string name="topic_name">Desarrollo de Aplicaciones III</string>
+    <string name="title_master">Catedratico</string>
+    <string name="name_master">Ing. Anastacio Rodriguez</string>
+    <string name="title_images">Large Text</string>
+    <string name="subtitle_images">Medium Text</string>
+    <string name="register">Registrar</string>
+    <string name="login">Login</string>
+    <string name="title_bd">Base de datos remota</string>
+    <string name="name_user">Nombre Usuario</string>
+    <string name="password_login">Contraseña</string>
+    <string name="go_home">Ir a inicio</string>
+    <string name="reg">Register</string>
+    <string name="welcome_reg">Bienvenido, Registrate.</string>
+    <string name="pass_reg">Contraseña</string>
+    <string name="name_user_reg">Nombre usuario</string>
+    <string name="welcome_user">BIENVENIDO</string>
+    <string name="graphics_topic">Avance y calificación por tema</string>
+    <string name="graphic_point">Grafica por tema</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="arrayPalabras">
+        <item>Jsf</item>
+        <item>Hibernate</item>
+        <item>Richfaces</item>
+        <item>Mojarra</item>
+        <item>Servlet</item>
+        <item>Xml</item>
+        <item>Xhtml</item>
+        <item>commandButton</item>
+    </string-array>
+</resources>
