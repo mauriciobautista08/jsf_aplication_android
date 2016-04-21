@@ -10,7 +10,7 @@
     <string name="register_button">Registrate Hora</string>
     <string name="title_activity_register">Registrate Ahora</string>
     <string name="welcome">Bienvenido</string>
-    <string name="is_login">Usted a iniciado session con extito</string>
+    <string name="is_login">Usted a iniciado sessión con éxtito</string>
     <string name="sign_up">Registrate Ahora</string>
     <!--LOgin -->
 
@@ -21,7 +21,7 @@
     <string name="texto_no_tarjetas">No tienes ninguna tarjeta asociada</string>
     <string name="etiqueta_universidad">UTNG</string>
     <string name="texto_cambiar_contrasena">Cambia tu contraseña</string>
-    <string name="etiqueta_comunicate">Enviame Un Correo</string>
+    <string name="etiqueta_comunicate">Enviáme Un Correo</string>
 
     <!--ITEMS -->
     <string name="item_desarrollador">Desarrollador</string>
@@ -34,13 +34,13 @@
     <string name="item_juego">Ahorcado JSF</string>
     <string name="item_videos">Videos</string>
     <string name="item_enciar_correo">Enviar Correo</string>
-    <string name="item_enciar_audios">Audios Tematicos</string>
+    <string name="item_enciar_audios">Audios Temáticos</string>
     <!--ITEMS -->
 
     <!--TABS -->
     <string name="tab_foro">Video Ayuda</string>
     <string name="pestaña_pulsada">"Pestaña Pulsada: "</string>
-    <string name="titulo_tab_capitulos">CAPITULOS</string>
+    <string name="titulo_tab_capitulos">CAPÍTULOS</string>
     <string name="titulo_tab_Videos">VIDEOS</string>
     <string name="titulo_tab_Material">MATERIAL</string>
     <string name="titulo_tab_perfil">PERFIL</string>
@@ -51,8 +51,8 @@
 
     <!-- ETIQUETAS -->
     <string name="texto_envia_correo">Enviar</string>
-    <string name="etiqueta_info_usuario">usuario</string>
-    <string name="etiqueta_contrasena">contraseña</string>
+    <string name="etiqueta_info_usuario">Usuario</string>
+    <string name="etiqueta_contrasena">Contraseña</string>
     <string name="etiqueta_info_desarrollador">Desarrollador</string>
     <!-- ETIQUETAS -->
 
@@ -66,50 +66,50 @@
     <string name="nombre">Ingrese el nombre de usuario</string>
     <string name="contraseña">Contraseña</string>
     <string name="correo">Correo</string>
-    <string name="agregar">Agregar Usuario</string>
+    <string name="agregar">Agregar usuario</string>
     <string name="nombre_info">Nombre</string>
     <string name="contraseña_info">Ingrese una contraseña</string>
     <string name="correo_info">Ingrese su correo electronico</string>
-    <string name="nuevo_usuario">Nuevo Usuario</string>
+    <string name="nuevo_usuario">Nuevo usuario</string>
     <string name="actualizar">Actualizar</string>
     <string name="eliminar">Eliminar</string>
     <string name="emptyString" />
     <!-- LOGIN -->
 
     <!-- Ayuda -->
-    <string name="Ayuda">En esta pestana te brindamos ayuda Si tienes alguna duda envia un correo
+    <string name="Ayuda">En esta pestaña te brindamos ayuda Si tienes alguna duda envía un correo
         al desarrollador.\n Su correo esta  en el tab de acerca de. Tambien puedes modificar las
         preferencias en la ventana de configuracion que esta dentro  del slide o si prefieres enviar
-        un correo electronicopresiendo el boton de abajo.
+        un correo electronico presionando el boton de abajo.
        </string>
     <!-- Ayuda -->
 
     <!-- TEXTOS GRANDES -->
-    <string name="list_descripcion_videos">Hola en esta seccion podras reproducir cada uno de los
-        videos que te ayudaran a comprender aun mas las tecnicas y la logica de Java Server Faces, te invitamos a
-        que veas los videos, Aprende y Diviertete al mismo tiempo!!</string>
-    <string name="list_descripcion_audios">Hola en esta seccion podras reprodcir los audios de los temas
-        que te ayudaran a comprender mejor el tema de Java Server Faces, te invitamos a que los escuches!!!</string>
-    <string name="list_descripcion_material">Hola en esta seccion podras buscar aun mas informacion
+    <string name="list_descripcion_videos">Hola en esta sección podras reproducir cada uno de los
+        videos que te ayudarán a comprender aun mas las técnicas y la lógica de Java Server Faces, te invitamos a
+        que veas los videos, aprende y diviertete al mismo tiempo!!</string>
+    <string name="list_descripcion_audios">Hola en esta sección podrás reproducir los audios de los temas
+        que te ayudarán a comprender mejor el tema de Java Server Faces, te invitamos a que los escuches!!!</string>
+    <string name="list_descripcion_material">Hola en esta seccin podrás buscar aun mas información
         asi como encontrar foros, ejemplos y documentos que te ayuden a aprender aun mas sobre ajax
         te dejamos los siguientes links, DIVIERTETE!!</string>
     <!-- TEXTOS GRANDES -->
 
 
-    <string name="position">posicion</string>
+    <string name="position">posición</string>
     <string name="itm_quiz">Quiz</string>
     <string name="siguiente">Siguiente</string>
-    <string name="menu_settings">Menu</string>
-    <string name="capitulos">Capitulos</string>
+    <string name="menu_settings">Menú</string>
+    <string name="capitulos">Capítulos</string>
 
     <string name="abrir">Abrir</string>
     <string name="omitir">omitir</string>
-    <string name="Bienvenida">Felicidades, acabas de registrarte, presiona el boton de inicio para ingresar al curso.</string>
-    <string name="privilegios">Si quieres tener acceso total a la aplicacion
-        registrate precionando el boton que esta en la parte inferior.</string>
+    <string name="Bienvenida">Felicidades, acabas de registrarte, presiona el botón de inicio para ingresar al curso.</string>
+    <string name="privilegios">Si quieres tener acceso total a la aplicación
+        registrate presionando el botón que esta en la parte inferior.</string>
     <string name="Privilegios_introduccion">RichFaces es una biblioteca de componentes para JSF y un avanzado framework para la integración de AJAX continuará ... </string>
-    <string name="enviar_correo">Envia un correo al programador, puedes hacerlo desplegando la barra
-        lateral de la aplicacion, selecciona la opcion enviar un correo, escribe el correo y listo.</string>
+    <string name="enviar_correo">Enváa un correo al programador, puedes hacerlo desplegando la barra
+        lateral de la aplicacion, selecciona la opción enviar un correo, escribe el correo y listo.</string>
         <!-- TEXTOS GRANDES -->
 
     <!-- ARREGLOS -->
@@ -302,9 +302,9 @@
 
     <string name="btn_jugar">Jugar</string>
     <string name="btn_acerca">Acerca De</string>
-    <string name="graphic">Grafica de Avances</string>
+    <string name="graphic">Gráfica de Avances</string>
     <string name="certificate">Mandar Certificado</string>
-    <string name="mensaje">Large Text</string>
+    <string name="mensaje">Tema Grande</string>
     <string name="letter">Letra</string>
     <string name="intro">Intro</string>
     <string name="next_quiz">Siguiente Quiz</string>
@@ -314,7 +314,7 @@
     <string name="points">Puntuaciones</string>
     <string name="out">Salir</string>
     <string name="help">Ayuda</string>
-    <string name="subtitle">Diviertete y Aprende</string>
+    <string name="subtitle">Diviertete y aprende</string>
     <string name="email_to">De :</string>
     <string name="email_subjetc">Tema :</string>
     <string name="email_message">Mensaje :</string>
@@ -324,7 +324,7 @@
     <string name="name_developer">Mauricio Bautista</string>
     <string name="email_developer">maubau0810@gmail.com</string>
     <string name="name_university">Casa de Estudios</string>
-    <string name="utng_name">Universidad Tecnologica del Norte de Guanajuato</string>
+    <string name="utng_name">Universidad Tecnológica del Norte de Guanajuato</string>
     <string name="title_topic">Asignatura</string>
     <string name="topic_name">Desarrollo de Aplicaciones III</string>
     <string name="title_master">Catedratico</string>
@@ -343,6 +343,6 @@
     <string name="name_user_reg">Nombre usuario</string>
     <string name="welcome_user">BIENVENIDO</string>
     <string name="graphics_topic">Avance y calificación por tema</string>
-    <string name="graphic_point">Grafica por tema</string>
+    <string name="graphic_point">Gráfica por tema</string>
 
 </resources>
